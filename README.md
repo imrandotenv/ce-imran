@@ -56,6 +56,6 @@ Second-year B.Tech CSE student (Class of 2029) specializing in full-stack web ap
 ### Activity
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ce-imran&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ce-imran&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&layout=compact" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imrandotenv&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrandotenv&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&layout=compact" height="165" alt="languages graph" />
 </div>
